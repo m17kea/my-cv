@@ -1,0 +1,170 @@
+@import url('https://themes.googleusercontent.com/fonts/css?kit=RFda8w1V0eDZheqfcyQ4EGb3DKsRMD34dqg1gT8Z-p6isjtAVhoKeKPV_uAAgBOSk3k702ZOKiLJc3WVjuplzPesZW2xOQ-xsNqO47m55DA');
+.cc-main {
+    width: 100%
+}
+.cc-grey-container {
+    float: right;
+    padding-left: 30pt
+}
+.cc-grey-right {
+    float: right;
+    padding: 10pt 10pt 10pt 10pt;
+    vertical-align: top;
+    background-color: #f3f3f3;
+    width: 130pt;
+}
+.cc-owner-name {
+    color: #000000;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 30pt;
+    font-family: "Merriweather";
+    font-style: normal;
+    padding-bottom: 6pt;
+}
+.cc-centre {
+    margin: 0 auto;
+    text-align: center;
+}
+.cc-img {
+    max-width: 100pt;
+}
+.cc-address {
+    padding-bottom: 0pt;
+    line-height: 1.8;
+    text-align: left;
+    margin-right: 15pt;
+    color: #666666;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 9pt;
+    font-weight: 700;
+    font-family: "Merriweather";
+    font-style: normal
+}
+.cc-inner {
+    text-align: left;
+    background-color: #ffffff;
+    max-width: 530pt;
+    padding: 30pt 30pt 30pt 30pt;
+    width: 90%; 
+    margin-left: auto; 
+    margin-right: auto
+}
+.cc-italic {
+    font-style: italic
+}
+.cc-bold{
+    font-weight:700;
+}
+.title {
+    padding-top: 0pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 36pt;
+    padding-bottom: 6pt;
+    font-family: "Merriweather";
+    line-height: 1.0;
+    text-align: left
+}
+.subtitle {
+    color: #000000;
+    font-family: "Open Sans";
+    line-height: 1.15;
+    vertical-align: baseline;
+    font-size: 11pt;
+}
+ul {
+    padding-left: 15pt;
+}
+li {
+    color: #666666;
+    font-size: 9pt;
+    font-family: "Merriweather";
+    margin-left: 5pt;
+    line-height: 1.3;
+    padding-left: 0pt;
+    padding-top: 0pt;
+    text-align: justify;
+    margin-right: 23.2pt;
+}
+p {
+    padding-top: 0pt;
+    margin: 0;
+    padding-bottom: 5pt;
+    color: #666666;
+    font-size: 9pt;
+    font-family: "Merriweather";
+    line-height: 1.3;
+    text-align: justify;
+    margin-right: 23.2pt
+}
+h1 {
+    padding-top: 0pt;
+    color: #2079c7;
+    font-weight: 700;
+    font-size: 9pt;
+    padding-bottom: 0pt;
+    font-family: "Open Sans";
+    text-align: left;    
+    line-height: 1.5
+}
+h2 {
+    padding-top: 5pt;
+    color: #000000;
+    font-weight: 700;
+    font-size: 11pt;
+    padding-bottom: 0pt;
+    font-family: "Merriweather";
+    line-height: 1.0;
+    page-break-after: avoid;
+    text-align: left
+}
+h3 {
+    padding-top: 0pt;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    color: #666666;
+    font-size: 8pt;
+    padding-bottom: 5pt;
+    font-family: "Open Sans";
+    line-height: 1.0;
+    page-break-after: avoid;
+    text-align: left;
+}
+h4 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    color: #666666;
+    font-size: 8pt;
+    font-family: "Open Sans";
+    font-weight: 100;
+    line-height: 1.3;
+    page-break-after: avoid;
+    text-align: left
+}
+h5 {
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    color: #666666;
+    font-size: 11pt;
+    font-family: "Merriweather";
+    line-height: 1.3;
+    page-break-after: avoid;
+    text-align: left;
+}
+h6 {
+    padding-top: 0pt;
+    padding-bottom: 5pt;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    color: #666666;
+    font-size: 9pt;
+    padding-bottom: 0pt;
+    font-family: "Merriweather";
+    line-height: 1.3;
+    page-break-after: avoid;
+    text-align: left
+}
